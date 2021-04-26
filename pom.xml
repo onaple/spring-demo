@@ -19,7 +19,7 @@
         <jackson.version>2.9.0</jackson.version>
         <eos.module.version>1.19.0</eos.module.version>
         <cglib.version>3.2.4</cglib.version>
-        <apache.commons.version>2.6</apache.commons.version>
+        <apache.commons.version>2.7</apache.commons.version>
         <slf4j.version>1.7.12</slf4j.version>
         <logback.version>1.2.0</logback.version>
         <checkstyle.config.location>
